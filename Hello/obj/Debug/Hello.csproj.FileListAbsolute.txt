@@ -1,0 +1,14 @@
+C:\Users\Вова\source\repos\Hello\bin\Debug\Hello.exe.config
+C:\Users\Вова\source\repos\Hello\bin\Debug\Hello.exe
+C:\Users\Вова\source\repos\Hello\bin\Debug\Hello.pdb
+C:\Users\Вова\source\repos\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\Users\Вова\source\repos\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\Вова\source\repos\Hello\obj\Debug\Hello.exe
+C:\Users\Вова\source\repos\Hello\obj\Debug\Hello.pdb
+\\tsclient\D\3 курс\2\C#\ЛР_01 (Структура программы проекта консольные приложения)\Hello\bin\Debug\Hello.exe.config
+\\tsclient\D\3 курс\2\C#\ЛР_01 (Структура программы проекта консольные приложения)\Hello\bin\Debug\Hello.exe
+\\tsclient\D\3 курс\2\C#\ЛР_01 (Структура программы проекта консольные приложения)\Hello\bin\Debug\Hello.pdb
+\\tsclient\D\3 курс\2\C#\ЛР_01 (Структура программы проекта консольные приложения)\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+\\tsclient\D\3 курс\2\C#\ЛР_01 (Структура программы проекта консольные приложения)\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+\\tsclient\D\3 курс\2\C#\ЛР_01 (Структура программы проекта консольные приложения)\Hello\obj\Debug\Hello.exe
+\\tsclient\D\3 курс\2\C#\ЛР_01 (Структура программы проекта консольные приложения)\Hello\obj\Debug\Hello.pdb
